@@ -1,0 +1,9 @@
+{
+  "appId": "app.karp.chat",
+  "appName": "Karp",
+  "webDir": "www",
+  "backgroundColor": "#0b0d12",
+  "android": {
+    "allowMixedContent": false
+  }
+}
